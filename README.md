@@ -48,3 +48,6 @@ python train.py --config-file configs/dap/curosat.yaml
 python train.py --config-file configs/dap/cropdisease.yaml
 ```
 
+### Acknowledgement
+This repository is based on the official PyTorch implementation of "Domain-Adaptive Prompt" [ICCV 2023]. 
+
